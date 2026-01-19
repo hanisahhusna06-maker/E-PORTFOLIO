@@ -22,13 +22,21 @@ I am currently studying in computer science (graphic and multimedia)
 
    This Lab 2 is based on De Morgan Theorem, boolean expression and truth table.
 
-   <a href="Lab 2.docx ">You can see my lab 2 by clicking on it!</a>
+   <a href="Lab 2.docx">You can see my lab 2 by clicking on it!</a>
 
 * Project
 
- This project is including chapter 7 (Latches and Flip-Flops) and chapter 8 (Counters). My project is about Elevator Controller System using deeds simulation.
+  This project is including chapter 7 (Latches and Flip-Flops) and chapter 8 (Counters). My project is about Elevator Controller System using deeds simulation.
 
- <a href=" ">My project</a>
+  <a href="PROJECT DIGITAL LOGIC PART 2.pbs">My project</a>
+
+ ✨*PROGRAMMING TECHNIQUE*
+ * Assignment 1
+
+   This assignment 2 is about drawing flowchart.
+
+   <a href=" ">My drawing flowchart.</a>
+   
 
  
    
