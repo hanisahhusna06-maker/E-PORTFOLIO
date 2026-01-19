@@ -41,7 +41,7 @@ I am currently studying in computer science (graphic and multimedia)
 
    This assignment 2 is write a coding about prompts the user to input a string of a size 50 characters or less then determine whether or not the entered string is a palindrome.
 
-   <a href=" ">Read more.</a>
+   <a href="Syahira_Hanisah_ASG2 (1).cpp">Read more.</a>
 
 * Assignment 3
 
