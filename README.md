@@ -37,7 +37,17 @@ I am currently studying in computer science (graphic and multimedia)
 
    <a href="ASG1.drawio (1).pdf">My drawing flowchart.</a>
    
+ * Assignment 2
 
+   This assignment 2 is write a coding about prompts the user to input a string of a size 50 characters or less then determine whether or not the entered string is a palindrome.
+
+   <a href=" ">Read more.</a>
+
+* Assignment 3
+
+  This assignment 3 is to complete a function that accepts an int array and the array’s size as arguments.
+
+  <a href=" ">Read more.</a>
  
    
 
