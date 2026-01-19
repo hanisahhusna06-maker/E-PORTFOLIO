@@ -10,7 +10,7 @@ I am currently studying in computer science (graphic and multimedia)
 
   Poster based on Industry Talk 1 (Data Analytics, Intro to SAP and Infrastructure).
   
-  <a href="ASG 2 TIS.pdf">My poster</a>
+  <a href="asg 2 tis 1.png">My poster</a>
 
 - Assignment 3 "Academic Writing"
  
