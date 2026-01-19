@@ -18,5 +18,19 @@ I am currently studying in computer science (graphic and multimedia)
  <a href="ASG 3 TIS.docx">You can check on my report by clicking on it!</a>
 
  ✨*DIGITAL LOGIC*
+ * Lab 2
+
+   This Lab 2 is based on De Morgan Theorem, boolean expression and truth table.
+
+   <a href=" ">You can see my lab 2 by clicking on it!</a>
+
+* Project
+
+ This project is including chapter 7 (Latches and Flip-Flops) and chapter 8 (Counters). My project is about Elevator Controller System using deeds simulation.
+
+ <a href=" ">My project</a>
+
+ 
+   
 
  
