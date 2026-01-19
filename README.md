@@ -15,14 +15,14 @@ I am currently studying in computer science (graphic and multimedia)
  
   Make a report based on Industry Talk 2 (Project Management & System Development).
 
- <a href="ASG 3 TIS.docx">You can check on my report by clicking on it!</a>
+  <a href="ASG 3 TIS.docx">You can check on my report by clicking on it!</a>
 
  ✨*DIGITAL LOGIC*
  * Lab 2
 
    This Lab 2 is based on De Morgan Theorem, boolean expression and truth table.
 
-   <a href=" ">You can see my lab 2 by clicking on it!</a>
+   <a href="Lab 2.docx ">You can see my lab 2 by clicking on it!</a>
 
 * Project
 
