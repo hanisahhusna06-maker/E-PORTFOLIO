@@ -18,6 +18,12 @@ I am currently studying in computer science (graphic and multimedia)
 
   <a href="ASG 3 TIS.docx">You can check on my report by clicking on it!</a>
 
+- Project
+
+  This is a report based on my group project.
+
+  <a href="Report TIS.pdf">You can check my group report by clicking on it!</a>
+
  ✨*DIGITAL LOGIC*
  * Lab 2
 
