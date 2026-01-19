@@ -47,7 +47,17 @@ I am currently studying in computer science (graphic and multimedia)
 
   This assignment 3 is to complete a function that accepts an int array and the array’s size as arguments.
 
-  <a href=" ">Read more.</a>
+  <a href="Syahira_Hanisah_ASG3.cpp">Read more.</a>
+
+ ✨*DISCRETE STRUCTURE*
+ * Assignment 4
+
+   This assignment 4 is about chapter 5 (Finite Automata)
+
+   <a href=" ">You can check my assignment 4 by clicking on it!</a>
+
+   
+  
  
    
 
